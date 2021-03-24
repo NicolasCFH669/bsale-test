@@ -1,0 +1,17 @@
+{
+  "name": "project-bsale",
+  "version": "1.0.0",
+  "description": "prueba bsale tienda online",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "nicolas martinez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  }
+}
